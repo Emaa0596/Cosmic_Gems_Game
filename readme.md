@@ -6,6 +6,7 @@
 
 ## Objetivo del juego: Coleccionar gemas sin que los enemigos te toquen. Una vez recolectadas debe esperar a que se abra la puerta y regresar. En cada colision con un enemigo se pierden gemas y vidas. En caso de no coleccionar una cantidad determinada, si finaliza el tiempo o se queda sin vidas, pierde el juego.
 ## El personaje principal puede disparar a sus enemigos, solo si tiene gemas recolectadas.
+## Los puntajes se guardan en un archivo .CSV
 
 ## Consta de 3 niveles. En el ultimo nivel debera enfrentar al Boss y eliminarlo.
 ![nivel 1](Readme/nivel1.PNG)
