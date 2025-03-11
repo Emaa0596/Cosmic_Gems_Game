@@ -6,10 +6,10 @@
 ## Objetivo del juego: Coleccionar gemas sin que los enemigos te toquen. Una vez recolectadas debe esperar a que se abra la puerta y regresar. En cada colision con un enemigo se pierden gemas y vidas. En caso de no coleccionar una cantidad determinada, si finaliza el tiempo o se queda sin vidas, pierde el juego.
 ## El personaje principal puede disparar a sus enemigos, solo si tiene gemas recolectadas.
 ## Consta de 3 niveles. En el ultimo nivel debera enfrentar al Boss y eliminarlo.
-![nivel 1](Mi Pygame/Readme/nivel1.png)
-![nivel 2](Mi Pygame/Readme/nivel2.png)
-![nivel 3](nivel3.png)
+![nivel 1](.Mi Pygame/Readme/nivel1.png)
+![nivel 2](.Mi Pygame/Readme/nivel2.png)
+![nivel 3](.nivel3.png)
 ## Hay poderes especiales, gemas y vidas en cajas determinadas.
 ## Botones: 
-![Flechas](Mi Pygame/Readme/botones.png)
-![Espacio](Mi Pygame/Readme/espacio.png)
+![Flechas](.Mi Pygame/Readme/botones.png)
+![Espacio](.Mi Pygame/Readme/espacio.png)
