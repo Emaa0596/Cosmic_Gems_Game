@@ -21,7 +21,7 @@ icono = pygame.image.load(r"juego segundo parcial\Mi Pygame\Sprites\items\picant
 pygame.transform.scale(icono,(10,10))
 pygame.display.set_icon(icono)
 
-boton_pausa = Boton_pausa(PANTALLA,r"juego segundo parcial\Mi Pygame\Sprites\botones\pausa sf.png",(50,40),(40,0))
+boton_pausa = Boton_pausa(PANTALLA,r"juego segundo parcial\Mi Pygame\Sprites\botones\pausa sf.png",(60,40),(40,0))
 boton_volumen = Boton_volumen(PANTALLA,r"juego segundo parcial\Mi Pygame\Sprites\botones\sound_sf.png",(50,40),(80,0),r"juego segundo parcial\Mi Pygame\Sprites\botones\sound off sf.png")
 boton_home = Boton_home(PANTALLA,r"juego segundo parcial\Mi Pygame\Sprites\botones\home sf.png",(50,40),(0,0),r"juego segundo parcial\Mi Pygame\Sprites\botones\home sf.png")
 
